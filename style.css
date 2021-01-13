@@ -1,0 +1,35 @@
+  body {
+	background-color: #51adcf;
+	font:normal 110% 'century gothic', arial, sans-serif;
+	margin-left: 25%;
+	padding: 22px 0 0 0;  
+  }
+
+  h1 {
+    margin-left: 25%;
+	letter-spacing:0.1em;
+  }
+
+  th {
+	font-size: 16px;
+  }
+
+  td {
+    text-align: center;
+    font-size: 14px;
+  }
+
+  select {
+    font-size:  11px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+  }
+
+  .edittable {
+	margin-left: 9%;
+  }
+
+  .hedittovar {
+	margin-left: 9%;
+	font-size: 16px;
+  }
